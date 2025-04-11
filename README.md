@@ -49,6 +49,34 @@ Each brand/region has a dedicated visual page for deep analysis.
   - Mobile Achievements (ACH & TGT)
 
 ---
+
+## 📸 Visuals
+
+### 🔹 Dashboard Previews by Brand
+
+#### 🔸 Sheet 1 & Sheet 2  
+<p align="center">
+  <img src="https://github.com/RameenShahid/Egypt-Telecom-Sales-KPI-insights--MicroSoft-Excel/blob/220b2ed99d88762747ca708af1ec2f2c0ff6e3df/Visuals/Sheet%201.png?raw=true" width="45%" />
+  <img src="https://github.com/RameenShahid/Egypt-Telecom-Sales-KPI-insights--MicroSoft-Excel/blob/220b2ed99d88762747ca708af1ec2f2c0ff6e3df/Visuals/Sheet%202.png?raw=true" width="45%" />
+</p>
+
+#### 🔸 Sheet 3 & Sheet 4  
+<p align="center">
+  <img src="https://github.com/RameenShahid/Egypt-Telecom-Sales-KPI-insights--MicroSoft-Excel/blob/220b2ed99d88762747ca708af1ec2f2c0ff6e3df/Visuals/Sheet%203.png?raw=true" width="45%" />
+  <img src="https://github.com/RameenShahid/Egypt-Telecom-Sales-KPI-insights--MicroSoft-Excel/blob/220b2ed99d88762747ca708af1ec2f2c0ff6e3df/Visuals/Sheet%204.png?raw=true" width="45%" />
+</p>
+
+#### 🔸 Sheet 5 & Sheet 6  
+<p align="center">
+  <img src="https://github.com/RameenShahid/Egypt-Telecom-Sales-KPI-insights--MicroSoft-Excel/blob/220b2ed99d88762747ca708af1ec2f2c0ff6e3df/Visuals/Sheet%205.png?raw=true" width="45%" />
+  <img src="https://github.com/RameenShahid/Egypt-Telecom-Sales-KPI-insights--MicroSoft-Excel/blob/220b2ed99d88762747ca708af1ec2f2c0ff6e3df/Visuals/Sheet%206.png?raw=true" width="45%" />
+</p>
+
+#### 🔸 Sheet 7  
+<p align="center">
+  <img src="https://github.com/RameenShahid/Egypt-Telecom-Sales-KPI-insights--MicroSoft-Excel/blob/220b2ed99d88762747ca708af1ec2f2c0ff6e3df/Visuals/Sheet%207.png?raw=true" width="50%" />
+</p>
+
 ## ⚙️ Project Process
 
 ### 1. 📥 Data Collection
