@@ -1,4 +1,4 @@
-📈 Telecom Egypt KPI Dashboard - Multi-Brand Excel Analysis
+# 📈 Telecom Egypt KPI Dashboard - Multi-Brand Excel Analysis
 
 This project presents an advanced **interactive Excel dashboard** built to analyze and visualize key sales and operational KPIs for **Telecom Egypt** across **seven major regional brands**. The solution provides deep insights into brand-level performance segmented by product category, region, and achievement against sales targets.
 
