@@ -144,6 +144,12 @@ Each brand/region has a dedicated visual page for deep analysis.
 - **Custom DAX measures** in Power Pivot
 ---
 
+### Database
+<p align="center">
+  <img src="https://github.com/RameenShahid/Egypt-Telecom-Sales-KPI-insights--MicroSoft-Excel/blob/93a8a51ee23cf845715b6e97b9a8dd5ebc798e16/Visuals/Database.png?raw=true" width="50%" />
+</p>
+
+---
 ## 📁 Repository Structure
 
 ```plaintext
@@ -157,5 +163,6 @@ Each brand/region has a dedicated visual page for deep analysis.
 ├── 📜 README.md               # Project overview and documentation
 # 📊 Telecom Egypt Brand Performance Dashboard
 
+---
 This project presents an advanced **interactive Excel dashboard** built to analyze and visualize key sales and operational KPIs for **Telecom Egypt** across **seven major regional brands**. The solution provides deep insights into brand-level performance segmented by product category, region, and achievement against sales targets.
 
