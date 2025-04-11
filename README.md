@@ -105,6 +105,16 @@ Each brand/region has a dedicated visual page for deep analysis.
 | DATASET    | Raw & processed data supporting visualizations |
 
 ---
+---
+
+## 📊 Key Excel & DAX Functions Used
+
+- `IF`, `VLOOKUP`, `SUMIFS`, `INDEX-MATCH`
+- **Dynamic slicers** using Excel Tables
+- **Conditional formatting** for KPI indicators
+- **Pivot Charts** with slicer integration
+- **Custom DAX measures** in Power Pivot
+---
 
 ## 📁 Repository Structure
 
@@ -121,13 +131,3 @@ Each brand/region has a dedicated visual page for deep analysis.
 
 This project presents an advanced **interactive Excel dashboard** built to analyze and visualize key sales and operational KPIs for **Telecom Egypt** across **seven major regional brands**. The solution provides deep insights into brand-level performance segmented by product category, region, and achievement against sales targets.
 
----
-
-## 📊 Key Excel & DAX Functions Used
-
-- `IF`, `VLOOKUP`, `SUMIFS`, `INDEX-MATCH`
-- **Dynamic slicers** using Excel Tables
-- **Conditional formatting** for KPI indicators
-- **Pivot Charts** with slicer integration
-- **Custom DAX measures** in Power Pivot
----
